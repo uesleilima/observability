@@ -1,3 +1,19 @@
+# IntelliJ
+*~
+.idea
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings
+.pmd
+target
+overlays
+node_modules
+.DS_Store
+data
+
 # Compiled class file
 *.class
 
